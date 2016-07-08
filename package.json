@@ -1,6 +1,6 @@
 {
   "name": "raleway-webfont",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "NPM package for the Raleway font",
   "main": "raleway.css",
   "repository": {
@@ -14,7 +14,7 @@
     "css"
   ],
   "author": "Pablo Impallari",
-  "license": "MIT",
+  "license": "MIT AND OFL-1.1",
   "bugs": {
     "url": "https://github.com/Dilatorily/raleway/issues"
   },
