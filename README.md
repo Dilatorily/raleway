@@ -1,4 +1,4 @@
-# Lato Webfont
+# Raleway Webfont
 This is a *NPM* repository for the [Raleway](https://fonts.google.com/specimen/Raleway) web font.
 
 ## Installation
